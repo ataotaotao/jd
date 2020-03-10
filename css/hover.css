@@ -1,0 +1,99 @@
+﻿@charset "utf-8";
+.city-location:hover,.jd-me:hover,.client-service:hover,.net-nav:hover,
+.i-o-content li:nth-child(3):hover .details-cont{
+	background-color:#fff;
+}
+.nav ul .city-location:hover .hid-all-city,.jd-me:hover .hid-jd,
+.client-service:hover .hid-lists,
+.phone-jd:hover .hid-erwm,.net-nav:hover .hid-nav-content,.h-c-l-top:hover .search-delete,
+.h-c-l-bottom:hover .search-delete,.i-o-content li:nth-child(3):hover .details-cont,
+.jd-c-title .erwm-phone:hover .hid-i-content{
+	display:block;
+	z-index:2;
+}
+.line-hid-city .common-city:hover a{
+	background-color:#eaeaea;
+	color:red;
+}
+.login a:hover,.regist a:hover,.order-me a:hover,
+.jd-me a:hover,.jd-vip a:hover,.client-service a:hover,
+.net-nav a:hover,.shop-lists li a:hover,
+.product-shop li a:hover,.shop-nav ul li .hid-electric ul + ul li a:hover,
+.shop-nav > ul > li > a:hover,.shop-nav ul li .hid-common .h-e-left ul + ul li a:hover,
+.login-place .login-space p a:hover,.details-cont li a:hover,.i-o-content li:nth-child(4) a:hover,
+.method-transportation ul li p a:hover,.ipad-pro ul li:hover p:nth-of-type(1) a,
+.p-s-bottom .product-famous > li > a:hover,.hid-kitchen-electric li:hover p a,.footer-cont a:hover,
+.another-info a:hover{
+	color:#c81623;
+}
+.phone-jd:hover:after,.camera-in:hover + .hid-camera-in,
+.input-content:focus + .hid-cont-list,.myshop:hover .shop-info .hid-shopcar,
+.shop-nav > ul > li:hover .hid-common,.i-o-content li:hover .hid-i-o-content,.ipad-pro ul:hover:before,
+.ipad-pro ul:hover:after,.p-s-bottom .product-famous li:hover .red-line,
+.p-s-bottom > ul >li:hover .hid-kitchen-electric{
+	display:block;
+}
+.h-c-l-top:hover,.h-c-l-bottom:hover{
+	background-color:#cacaca;
+	cursor:pointer;
+}
+.shop-nav > ul > li:hover{
+	background-color:#a6a6a6;
+	cursor:pointer;
+}
+.h-e-left ul:nth-child(1) li:hover{
+	background-color:#575757;
+}
+.fresh-vip span:hover,.fresh-vip span:hover a{
+	background-color:#c81623;
+}
+.fresh-vip span:hover a{
+	color:#fff;
+}
+.input-content:focus + .hid-cont-list{
+	z-index:1;
+	background-color:#fff;
+}
+.myshop:hover .shop-info .hid-shopcar{
+	z-index:1;
+}
+.ipad-pro ul li:hover img{
+	top:-5px;
+}
+.p-s-l-bottom > div:hover img{
+	right:10px;
+}
+.p-s-l-middle:hover:before,.p-s-l-middle:hover:after,.n-a-right:hover:before,
+.n-a-right:hover:after,.brand-list-showing:hover:before,.brand-list-showing:hover:after{
+	display:block;
+	color:#c81623;
+}
+.n-a-l-content li:hover img{
+	left:50px;
+}
+.electric-phone:hover{
+	background-position:0 0;
+}
+.designer-recom:hover img,.jd-c-c-l-top:hover img,.jd-c-c-l-bottom:hover img,
+.brand-watch-shoe li:hover img{
+	left:-10px;
+}
+.jd-c-title span:hover{
+	border-color:#fff;
+}
+.jd-c-c-r-top li:hover img{
+	right:10px;
+}
+.shop-more ul li:hover{
+	border:1px solid red;
+}
+.shop-more ul li:hover p:nth-of-type(1){
+	color:#c81623;
+}
+.side-nav-left .common-style:hover,.side-nav-left-top li:hover,
+.side-nav-left-top li:hover .hid-nav,.side-nav-left-bottom li:hover .hid-nav{
+	background-color:#d70b1c;
+}
+.side-nav-left-top li:hover .hid-nav,.side-nav-left-bottom li:hover .hid-nav{
+	left:-85px;
+}
